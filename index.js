@@ -12,7 +12,7 @@ function perfectNumber() {
   let dividers = [];
   let sum_dividers = 0;
 
-  if (number < 1 || number === "") {
+  if (number < 1 || number === "" || isNaN(number) ) {
     document.getElementById("answer").innerHTML =
       "⚡⚡Please Enter A Positive Number⚡⚡";
   } else {
