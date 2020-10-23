@@ -45,13 +45,14 @@ p {
     margin-bottom:40px;
     font-family: 'Sansita Swashed', cursive;
     padding: 10px;
-    color: #fff176;
+    color: #f4511e;
+    text-shadow: 1px 1px black;
     font-weight: bold;
-    font-size: 1.75rem;
+    font-size: 2rem;
 }
 .cardStyle {
     margin: auto auto;
-    background-color: #53BF69;
+    background-color: #ffa726;
     font-family: 'Sansita Swashed', cursive;
 }
 
